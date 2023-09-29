@@ -1,6 +1,10 @@
 # Portfolio
 
 Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website.
+### Portfolio Preview
+
+[Click here to preview the portfolio](https://ganeswar07.github.io/portfolio)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
